@@ -1,4 +1,4 @@
-Hi 👋 My name is Shwetha J
+Hi 👋 My name is Shwetha 
 ==========================
 
 Front End Developer
