@@ -1,7 +1,7 @@
 Hi 👋 My name is Shwetha 
 ==========================
 
-Front End Developer
+Front-End Developer
 -------------------
 
 * 🌍  I'm based in India
