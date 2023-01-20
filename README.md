@@ -4,8 +4,10 @@ Hi 👋 My name is Shwetha
 Front-End Developer
 -------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [shwethaj1104@gmail.com](mailto:shwethaj1104@gmail.com)
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://portfolio-shwetha.vercel.app/](http://portfolio-shwetha.vercel.app/)
+* ✉️  You can contact me at [shwethaj1104@gmail.com](mailto:shwethaj1104@gmail.com)
+* 🧠  I'm learning AWS
 
 ### Skills
 
