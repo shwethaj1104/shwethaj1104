@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://portfolio-shwetha.vercel.app/](http://portfolio-shwetha.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-shwetha-j.vercel.app/](https://portfolio-shwetha-j.vercel.app/)
 * ✉️  You can contact me at [shwethaj1104@gmail.com](mailto:shwethaj1104@gmail.com)
 * 🧠  I'm learning React Native
 
